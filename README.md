@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Akshay Mohan 
-- 👀 I’m interested in Machine Learning , IoT , Cyber security
-- 🌱 I’m currently learning AI and Robotics
-- 📫 How to reach me -- 
+- 🌱 I’m currently pursuing my degree in AI and Robotics
+-  How to reach me -- 
 - My discord id : steeel#6142
 - Linked In : https://www.linkedin.com/in/akshay-mohan-b71632187/
 
